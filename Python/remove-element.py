@@ -1,3 +1,8 @@
+"""
+A[i], A[last] = A[last], A[i]
+return last + 1
+to get the unrepeated nums
+"""
 # Time:  O(n)
 # Space: O(1)
 #
